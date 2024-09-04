@@ -24,16 +24,32 @@ Adoto um estilo de trabalho minimalista, focado em clareza e eficiência, mas se
 ## 🎉 Vida Além do Código
 Quando não estou imerso no mundo da tecnologia, valorizo momentos com a minha família. Sou casado e pai de 4 filhos. Também me dedico a hobbies que me ajudam a manter o equilíbrio, como passeios em família, andar de bike, assistir filmes/séries, ouvir música e jogar um Counter-Strike. Acredito que um bom equilíbrio entre vida pessoal e profissional é essencial para manter a criatividade e a motivação em alta.
 
-## 👨‍💻 No GitHub
-<div class="d-flex w-100">
-  <img align="left" alt="Github Stats"
+### 👨‍💻 No GitHub
+<p align="center">
+  <img width="33%" alt="Github Stats"
     src="https://github-readme-stats.vercel.app/api?username=renzosa&theme=navy&hide_border=false&include_all_commits=true" />
-  <img align="left" alt="Github Stats"
+  <img width="36%" alt="Github Stats"
     src="https://github-readme-streak-stats.herokuapp.com/?user=renzosa&theme=navy&hide_border=false" />
-</div>
+  <img width="26%" alt="Github Stats"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzosa&theme=navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
-<img align="left" alt="Github Stats"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzosa&theme=navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+### 🏆 GitHub Profile Trophy
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus" >
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=renzosa&column=12&theme=algolia&no-frame=true&no-bg=true" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img width="13%" src="https://profile-counter.glitch.me/renzosa/count.svg" alt="Número de visitantes no perfil" /> 
+  <br />
+  Visitas
+</p>
+
 
 <!--
 
