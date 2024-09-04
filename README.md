@@ -24,6 +24,17 @@ Adoto um estilo de trabalho minimalista, focado em clareza e eficiência, mas se
 ## 🎉 Vida Além do Código
 Quando não estou imerso no mundo da tecnologia, valorizo momentos com a minha família. Sou casado e pai de 4 filhos. Também me dedico a hobbies que me ajudam a manter o equilíbrio, como passeios em família, andar de bike, assistir filmes/séries, ouvir música e jogar um Counter-Strike. Acredito que um bom equilíbrio entre vida pessoal e profissional é essencial para manter a criatividade e a motivação em alta.
 
+## 👨‍💻 No GitHub
+<div class="d-flex w-100">
+  <img align="left" alt="Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=renzosa&theme=navy&hide_border=false&include_all_commits=true" />
+  <img align="left" alt="Github Stats"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=renzosa&theme=navy&hide_border=false" />
+</div>
+
+<img align="left" alt="Github Stats"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzosa&theme=navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
 <!--
 
 ### Hi there 👋
