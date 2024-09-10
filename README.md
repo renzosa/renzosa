@@ -29,10 +29,8 @@ Quando não estou imerso no mundo da tecnologia, valorizo momentos com a minha f
 - [Português](curriculum.pt_BR.md)
 - [Inglês](curriculum.en_US.md)
 
-##### 📊 GitHub Stats
-
 <details>
-  <summary>📈 Click to View</summary>
+  <summary>📊 no GitHub | clique para ver</summary>
   <p align="center">
     <a href="https://github.com/renzosa">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renzosa&theme=transparent" />
