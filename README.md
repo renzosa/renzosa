@@ -29,30 +29,36 @@ Quando não estou imerso no mundo da tecnologia, valorizo momentos com a minha f
 - [Português](curriculum.pt_BR.md)
 - [Inglês](curriculum.en_US.md)
 
-##### 🏆 GitHub Profile Trophy
+##### 📊 GitHub Stats
+
+<details>
+  <summary>📈 Click to View</summary>
+  <p align="center">
+    <a href="https://github.com/renzosa">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renzosa&theme=transparent" />
+    </a>
+    <a href="https://github.com/renzosa">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=renzosa&hide_border=true&card_width=338&theme=transparent" />
+    </a>
+    <a href="https://github.com/renzosa">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=renzosa&theme=transparent" />
+    </a>
+    <a href="https://github.com/renzosa">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzosa&langs_count=10&layout=compact&card_width=699&hide_border=true&theme=transparent" />
+    </a>
+  </p>
+  <p align="center">
+    <strong>🏆 GitHub Profile Trophy</strong>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"
+      title="repositório de troféus" >
+      <img width="100%" src="https://github-profile-trophy.vercel.app/?username=renzosa&column=12&theme=algolia&no-frame=true&no-bg=true" />
+    </a>
+  </p>
+</details>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus" >
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=renzosa&column=12&theme=algolia&no-frame=true&no-bg=true" />
+  <a href="https://github.com/renzosa">
+    <img src="https://komarev.com/ghpvc/?username=renzosa&color=007ec6&style=for-the-badge&label=Profile+Views" />
   </a>
-</p>
-
-##### 👨‍💻 No GitHub
-<p align="center">
-  <img alt="Github Stats"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzosa&theme=navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  <img alt="Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=renzosa&theme=navy&hide_border=false&include_all_commits=true" />
-  <img alt="Github Stats"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=renzosa&theme=navy&hide_border=false" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/renzosa/count.svg" alt="Número de visitantes no perfil" /> 
-  <br />
-  Visitas
 </p>
 
 
