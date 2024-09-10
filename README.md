@@ -24,6 +24,11 @@ Adoto um estilo de trabalho minimalista, focado em clareza e eficiência, mas se
 #### 🎉 Vida Além do Código
 Quando não estou imerso no mundo da tecnologia, valorizo momentos com a minha família. Sou casado e pai de 4 filhos. Também me dedico a hobbies que me ajudam a manter o equilíbrio, como passeios em família, andar de bike, assistir filmes/séries, ouvir música e jogar um Counter-Strike. Acredito que um bom equilíbrio entre vida pessoal e profissional é essencial para manter a criatividade e a motivação em alta.
 
+##### 📜 Currículo
+
+- [Português](curriculum.pt_BR.md)
+- [Inglês](curriculum.en_US.md)
+
 ##### 👨‍💻 No GitHub
 <p align="center">
   <img alt="Github Stats"
@@ -45,7 +50,7 @@ Quando não estou imerso no mundo da tecnologia, valorizo momentos com a minha f
 ---
 
 <p align="center">
-  <img width="13%" src="https://profile-counter.glitch.me/renzosa/count.svg" alt="Número de visitantes no perfil" /> 
+  <img src="https://profile-counter.glitch.me/renzosa/count.svg" alt="Número de visitantes no perfil" /> 
   <br />
   Visitas
 </p>
