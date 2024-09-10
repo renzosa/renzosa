@@ -29,22 +29,22 @@ Quando não estou imerso no mundo da tecnologia, valorizo momentos com a minha f
 - [Português](curriculum.pt_BR.md)
 - [Inglês](curriculum.en_US.md)
 
-##### 👨‍💻 No GitHub
-<p align="center">
-  <img alt="Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=renzosa&theme=navy&hide_border=false&include_all_commits=true" />
-  <img alt="Github Stats"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=renzosa&theme=navy&hide_border=false" />
-  <img alt="Github Stats"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzosa&theme=navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-### 🏆 GitHub Profile Trophy
+##### 🏆 GitHub Profile Trophy
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     title="repositório de troféus" >
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=renzosa&column=12&theme=algolia&no-frame=true&no-bg=true" />
   </a>
+</p>
+
+##### 👨‍💻 No GitHub
+<p align="center">
+  <img alt="Github Stats"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzosa&theme=navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img alt="Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=renzosa&theme=navy&hide_border=false&include_all_commits=true" />
+  <img alt="Github Stats"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=renzosa&theme=navy&hide_border=false" />
 </p>
 
 ---
